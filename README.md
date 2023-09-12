@@ -1,2 +1,2 @@
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Localization in Android Jetpack Compose: Crafting Multilingual User Experiences 
